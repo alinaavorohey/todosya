@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "description": "Milk, Cheese, Pizza, Fruit, Tylenol",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2025-05-20T10:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Learn JavaScript",
+      "description": "The cake is a lie",
+      "status": "completed",
+      "priority": "high",
+      "dueDate": "2025-11-15T18:45:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Complete Lab Work #1",
+      "description": "Finish the ToDo Task Manager application",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2025-11-17T12:00:00.000Z"
+    }
+  ]
+}
+
